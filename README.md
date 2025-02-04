@@ -76,9 +76,9 @@ Contributions are welcome! Please open an issue or submit a pull request for sug
 
 ---
 
-**Author:** [Your Name]  
-**GitHub:** [Your GitHub Profile Link]  
-**LinkedIn:** [Your LinkedIn Profile Link]  
+**Author:** Nikitha kadaparthi
+**GitHub:** GitHub Profile  
+**LinkedIn:** linkedin.com/in/nikitha-kadaparthi-4a42321a8/
 
 > *"Turning data into actionable business insights."*
 
