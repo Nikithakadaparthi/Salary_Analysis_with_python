@@ -77,8 +77,10 @@ Contributions are welcome! Please open an issue or submit a pull request for sug
 ---
 
 **Author:** Nikitha kadaparthi
-**GitHub:** GitHub Profile  
-**LinkedIn:** linkedin.com/in/nikitha-kadaparthi-4a42321a8/
+
+**GitHub:** [Nikitha Kadaparthi](https://github.com/Nikithakadaparthi)  
+
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nikitha-kadaparthi-4a42321a8/) 
 
 > *"Turning data into actionable business insights."*
 
