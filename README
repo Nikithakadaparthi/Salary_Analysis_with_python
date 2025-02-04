@@ -1,6 +1,4 @@
-https://drive.google.com/file/d/1Lnk1_SC3cTLe4gyJNLxvpSP7-as2rvvg/view?usp=sharing
-
-# 📈 Data-Driven Salary Analysis: Predict, Visualize, Optimize&#x20; 
+# 📊 Data-Driven Salary Analysis: Predict, Visualize, Optimize
 
 ## 📝 **Project Overview**
 
@@ -27,24 +25,20 @@ This project focuses on analyzing salary-related data to uncover key insights, p
 ## 📊 **Data Analysis Workflow**
 
 1. **Data Preprocessing:**
-
    - Handling missing values and data cleaning
    - Feature engineering and transformation
    - Outlier detection and treatment
 
 2. **Exploratory Data Analysis (EDA):**
-
    - Distribution analysis for key features (Salary, Experience, etc.)
    - Correlation heatmaps to identify feature relationships
    - Scatter plots for visualizing trends between variables
 
 3. **Predictive Modeling:**
-
    - Simple Linear Regression
    - Model evaluation using Mean Squared Error (MSE) for accuracy assessment
 
 4. **Feature Importance Analysis:**
-
    - Identifying key predictors of salary trends
    - Visualizing feature importance with bar charts and regression lines
 
@@ -82,10 +76,9 @@ Contributions are welcome! Please open an issue or submit a pull request for sug
 
 ---
 
-**Author:** [Your Name]\
-**GitHub:** [Your GitHub Profile Link]\
-**LinkedIn:** [Your LinkedIn Profile Link]
+**Author:** [Your Name]  
+**GitHub:** [Your GitHub Profile Link]  
+**LinkedIn:** [Your LinkedIn Profile Link]  
 
 > *"Turning data into actionable business insights."*
-
 
