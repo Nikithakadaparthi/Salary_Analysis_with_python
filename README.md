@@ -1,4 +1,4 @@
-# 📊 Data-Driven Salary Analysis: Predict, Visualize, Optimize
+# 📊 Data-Driven Salary Analysis: Predict, Visualize, Optimize 
 
 ## 📝 **Project Overview**
 
